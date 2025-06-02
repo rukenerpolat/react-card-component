@@ -55,7 +55,7 @@ react-card-component/
 ├── src/
 |   ├── assets/
 │   └── ...
-│   |── App.js
+│   |── App.jsx
 │   |── Card.jsx
 │   ├── index.css
 │   └── main.jsx
