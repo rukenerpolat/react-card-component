@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Card Component
 
 ## 📌 About
@@ -76,3 +77,6 @@ If you have suggestions for improvements or would like to add new features, feel
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-827a67?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rukenerpolat)
 [![Medium](https://img.shields.io/badge/-Medium-827a67?style=flat&logo=medium&logoColor=white)](https://medium.com/@rukenerpolat)
 [![X](https://img.shields.io/badge/-X-827a67?style=flat&logo=x&logoColor=white)](https://x.com/rukenerpolat)
+=======
+https://react-cardcomponent.netlify.app/
+>>>>>>> dfafd4a595edf4337307d6a5b5384b3514b226f0
